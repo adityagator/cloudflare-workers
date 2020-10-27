@@ -1,6 +1,5 @@
-name = "helloworld"
+name = "get_link_objects"
 type = "javascript"
-
 account_id = ""
 workers_dev = true
 route = ""
