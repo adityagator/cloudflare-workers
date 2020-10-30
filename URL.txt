@@ -1,1 +1,1 @@
-https://myassignment.mydomain.com/
+https://aditya-worker.aditya-cloudflare.workers.dev/
