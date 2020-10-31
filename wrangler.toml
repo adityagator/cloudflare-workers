@@ -1,5 +1,0 @@
-name = "aditya-worker"
-type = "webpack"
-account_id = "97e79b2d090cde04eb50a56ec750cf5f"
-workers_dev = true
-
