@@ -1,4 +1,3 @@
-// Create the class for link objects
 class LinkObject {
   constructor(name, url) {
       this.name = name;
